@@ -1,0 +1,9 @@
+# Ignorar tudo dentro de simple_speaker, exceto os ficheiros e pastas necessários
+/simple_speaker/**
+
+# Permitir src, pubspec.yaml e AndroidManifest.xml dentro de simple_speaker
+!simple_speaker/lib/
+!simple_speaker/pubspec.yaml
+!simple_speaker/android/app/src/main/AndroidManifest.xml
+
+# Se precisares incluir outros ficheiros, acrescenta aqui
