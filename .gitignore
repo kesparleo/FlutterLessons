@@ -38,4 +38,4 @@
 !simple_notificator/android/app/src/main/
 !simple_notificator/android/app/src/main/AndroidManifest.xml
 
-!simple_notificator/android/build.gradle.kts
+!simple_notificator/android/app/build.gradle.kts
