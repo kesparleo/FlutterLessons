@@ -17,3 +17,25 @@
 !simple_speaker/android/app/src/
 !simple_speaker/android/app/src/main/
 !simple_speaker/android/app/src/main/AndroidManifest.xml
+
+
+# Simple_Notificator
+/simple_notificator/**
+
+!simple_notificator/
+
+# Permitir pubspec.yaml
+!simple_notificator/pubspec.yaml
+
+# Permitir pasta lib/
+!simple_notificator/lib/
+!simple_notificator/lib/**
+
+# Permitir caminho até AndroidManifest.xml
+!simple_notificator/android/
+!simple_notificator/android/app/
+!simple_notificator/android/app/src/
+!simple_notificator/android/app/src/main/
+!simple_notificator/android/app/src/main/AndroidManifest.xml
+
+!simple_notificator/android/build.gradle.kts
